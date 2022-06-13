@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:main" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/abc15250b3cacc3bd90267b44f6a3440/transformed/core-ktx-1.7.0-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/e390f3888e073631009e43306260d2db/transformed/material-1.6.1-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/d0d0f04ae41c742918aef29ac270ecbc/transformed/constraintlayout-2.0.1-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/87b194715a19ba4ea6e3533e2c4f6df2/transformed/appcompat-1.4.2-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/397140ba88fbc5bf405078bfdcb05823/transformed/viewpager2-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/9ddf0c9c555920cc94309c86658434cc/transformed/fragment-1.3.6-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/c2b3d364ab7b6cb4c659e3f1eb62be50/transformed/activity-1.2.4-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/cc59a82157c70e870ace285626eac2ac/transformed/appcompat-resources-1.4.2-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/f2925751cab81e4bb5b6edbbbe20360c/transformed/drawerlayout-1.1.1-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/4723cd20f15a6b517500a82736566c93/transformed/coordinatorlayout-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/a04373dc0442c34adc5249bd3ae915fb/transformed/dynamicanimation-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/02ec17a37c64e27e15b1292232ba7a19/transformed/recyclerview-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/7637ddcba74310dfdb735d1f89df368b/transformed/transition-1.2.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/6fbac0a85576dcc9d8d89e13f1f28bee/transformed/vectordrawable-animated-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/ed85ea8ed25dc48845ea10e0cc430292/transformed/vectordrawable-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/30a63266ea47949345f90c819e3c820e/transformed/viewpager-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/4e91442efcbbf297508c3b42c39f6a5c/transformed/legacy-support-core-utils-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/bd542dcc9fc65ef53dc24e20969e897d/transformed/loader-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/9ff801f8518ad3bb2048a1bb0f453543/transformed/customview-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/87450a42ba0fdea8e1263496106bb046/transformed/core-1.7.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/5d385dd90365bba49f8ba75df2024134/transformed/cursoradapter-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/5bad5d589c555fa699cd4cd3ec6348da/transformed/lifecycle-viewmodel-savedstate-2.3.1-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/e80603c430d7e669d9cb8886b484e8ff/transformed/savedstate-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/1fa9f0149e1a6fa552200a3ea27d9f01/transformed/cardview-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/03e6192d300dc93006ac37bc8f213206/transformed/lifecycle-runtime-2.4.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/2d273139016bd57216550da92cbe9562/transformed/versionedparcelable-1.1.1-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/7fad0545da242af337c9e39613bccf70/transformed/lifecycle-viewmodel-2.3.1-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/65b9e8193adb7856d33c27d4120c95db/transformed/lifecycle-livedata-2.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/a26a06d1e7bb6aef9d51003a8e53902d/transformed/lifecycle-livedata-core-2.3.1-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/8d34d9290dd88512ee2fc3f3e1621f5b/transformed/core-runtime-2.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/39455363601687b0bd293fa66ee4a33b/transformed/interpolator-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/5c30a0bafea94bd828a70be7cbd44e2b/transformed/documentfile-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/f9153c0f105bb841444053420667f475/transformed/localbroadcastmanager-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/20c14b604a8b1282cd7f347130254cb8/transformed/print-1.0.0-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar;C:/Users/Aleksey/.gradle/caches/transforms-3/c19117e73defdc95dc04daf07abe248b/transformed/annotation-experimental-1.1.0-api.jar;C:/Users/Aleksey/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.1/30988fe2d77f3fe3bf7551bb8a8b795fad7e7226/constraintlayout-solver-2.0.1.jar;C:/sdk/platforms/android-32/android.jar;C:/sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
